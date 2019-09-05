@@ -4,7 +4,7 @@
 
 Via composer :
 
-    composer require bnbwebexpertise/laravel-google-cloud-print
+    composer require djnet00/laravel-google-cloud-print
 
 Then add the service provider class to your Laravel `config/app.php` :
 
