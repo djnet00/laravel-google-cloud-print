@@ -16,9 +16,9 @@
   },
   "require": {
     "php": ">=7.2",
-    "illuminate/config": "^6.0|^7.0",
-    "illuminate/session": "^6.0|^7.0",
-    "illuminate/support": "^6.0|^7.0",
+    "illuminate/config": "^6.0|^7.0|^8.0",
+    "illuminate/session": "^6.0|^7.0|^8.0",
+    "illuminate/support": "^6.0|^7.0|^8.0",
     "google/apiclient": "^2.1"
   },
   "require-dev": {
